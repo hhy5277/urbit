@@ -9,7 +9,7 @@
 
 //  stash config flags for serf
 //
-static c3_c sag_w;
+static c3_w sag_w;
 
 /*
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
